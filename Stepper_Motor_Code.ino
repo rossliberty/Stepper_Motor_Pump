@@ -1,5 +1,6 @@
 //***************************************************************************
 // - Liberty Produce - Ross Lambert
+// - Arduino
 //This program runs a stepper motor pump using a TB6600 driver.
 //The Enable, DIR and Pulse negative on the driver are all connected to
 // ground.
